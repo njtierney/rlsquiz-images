@@ -9,7 +9,7 @@ The goal of rlsquiz-images is to provide an image interface into the rlsquiz rep
 When you update any images in these folders, you must run:
 
 ```r
-source("index_builder.R")
+source("write_image_index.R")
 ```
 
 So you can rebuild `index.csv`, which is the index of all images.
